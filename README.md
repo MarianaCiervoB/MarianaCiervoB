@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Mariana Ciervo Borges!
 
-<!--
-**MarianaCiervoB/MarianaCiervoB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student**  
+🌐 Passionate about site development & cybersecurity  
+🎨 Digital artist in my spare time
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+
+I'm currently studying Computer Science and enjoying every step of the journey! My main interests are **site development** and **cybersecurity**, and I love bringing ideas to life whether it's through code or creative digital art.
+
+## 🛠️ Skills
+
+- **Languages:** C, Java, HTML, JavaScript, CSS
+- **Frameworks/Tools:** WordPress
+- **Other:** Object-Oriented Programming, Concurrent Programming
+
+## 🚀 Highlight Project
+
+**Coleções**  
+A collaborative university project with [Arthur Lorenço](https://github.com/arthurlorencco), developed for the course “Paradigmas da Programação”.  
+- **Tech:** Java  
+- **Topics:** Object-Oriented Programming, Functional Programming, Concurrent Programming  
+- *Ask me about it or check out the repo for insights!*
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/mariana-ciervo-borges-15b07626a/)
+- [Instagram (Art)](https://www.instagram.com/marianacb.zip/)
+- [Instagram (Personal)](https://www.instagram.com/_sujeita_/)
+
+## 🎨 Fun Fact
+
+When I'm not coding, you'll probably find me creating digital art!  
+Check out my portfolio on Instagram: [@marianacb.zip](https://www.instagram.com/marianacb.zip/)
+
+---
+
+> ✨ Always curious, always learning. Let's create something amazing together!
