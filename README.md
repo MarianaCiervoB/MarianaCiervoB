@@ -27,13 +27,13 @@ A collaborative university project with [Arthur Lorenço](https://github.com/art
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mariana-ciervo-borges-15b07626a/)
-- [Instagram (Art)](https://www.instagram.com/marianacb.zip/)
-- [Instagram (Personal)](https://www.instagram.com/_sujeita_/)
+- [Instagram (Art)](https://www.instagram.com/_sujeita_/)
+- [Instagram (Personal)](https://www.instagram.com/marianacb.zip/)
 
 ## 🎨 Fun Fact
 
 When I'm not coding, you'll probably find me creating digital art!  
-Check out my portfolio on Instagram: [@marianacb.zip](https://www.instagram.com/marianacb.zip/)
+Check out my portfolio on Instagram: [@_sujeita_](https://www.instagram.com/_sujeita_/)
 
 ---
 
